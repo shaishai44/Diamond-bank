@@ -1,11 +1,3 @@
-seyi
-rotimi
-lamodi
-baba
-davies
-topman
-segun
-bisi
-tope
-adeolu
-tafa
+
+peter obi seems has lost the presidential election
+jagaban most likely be the incoming Nigeria president
