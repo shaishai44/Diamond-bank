@@ -1,9 +1,6 @@
 
 This is great
-<<<<<<< HEAD
-
-=======
 developing apps.java
->>>>>>> dev
+.net applications
+Nodejs application
 
-.net application
