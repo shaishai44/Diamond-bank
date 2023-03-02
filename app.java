@@ -1,3 +1,3 @@
-with relative ease
-getting there.
-AMEN
+This is great
+developing java apps
+
