@@ -5,3 +5,4 @@ developing apps.java
 Nodejs application
 python applications
 web application
+bug removed
